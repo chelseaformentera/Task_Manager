@@ -17,6 +17,9 @@
 - **Node.js** >= 16.0
 - **Database** MySQL (just use MySQL 😎)
 
+if you want to locate the .sql eextension for db its
+in the database folder.
+
 ---
 
 ## Installation
