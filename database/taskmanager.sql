@@ -138,8 +138,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'vann snow', 'kik@gmail.com', NULL, '$2y$12$Ku0Dh3Fw2PdGJuzKrGhug.h/U8BETyxLLHyOvDB4YSr2AgEkBx53e', NULL, '2024-12-19 22:59:58', '2024-12-19 22:59:58'),
-(2, 'hana', 'hana@gmail.com', NULL, '$2y$12$.V9vheqjkyTo0csuXiRZ5erAi6VpJYNvqdO23BIdnDurfkQeWYnNu', NULL, '2024-12-26 19:49:00', '2024-12-26 19:49:00');
+(1, 'hana', 'hana@gmail.com', NULL, '$2y$12$.V9vheqjkyTo0csuXiRZ5erAi6VpJYNvqdO23BIdnDurfkQeWYnNu', NULL, '2024-12-26 19:49:00', '2024-12-26 19:49:00');
 
 --
 -- Indexes for dumped tables
