@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/chelseaformentera/task-manager.git
 cd task-manager
 Install dependencies:
 
